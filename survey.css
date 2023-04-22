@@ -1,0 +1,41 @@
+.heading{
+    text-align: center;
+    font-size: 500%;
+    color: darkorchid;
+    text-rendering: geometricPrecision;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #fff;
+}
+label{
+    color: white;
+}
+form{
+    background-color: rgba(0,0,0,0.3);
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    border-radius: 50px;
+    margin:auto;
+    margin-top: 10px;
+    padding-bottom: 100px;
+    padding: 2px;
+}
+form .box{
+    width: 180%;
+    height: 2.8em;
+}
+button{
+    width: 180%;
+    height: 4em;
+    cursor: pointer;
+    position: relative;
+    background-color: aquamarine;
+
+}
